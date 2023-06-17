@@ -2,7 +2,7 @@ pandas
 pyresparser
 pdfminer3
 streamlit_tags
-nltk
+nltk==3.6.2
 streamlit
 spacy>=2.2.0,<3.0.0
 pdfminer.six==20211012
