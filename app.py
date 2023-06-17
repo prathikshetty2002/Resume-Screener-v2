@@ -15,11 +15,11 @@ from streamlit_tags import st_tags
 from Skills import ds_keyword,web_keyword,android_keyword,ios_keyword,uiux_keyword,n_any
 from Recommendations import web_skills,ds_skills,ios_skills,android_skills,uiux_skills,no_skills
 from Courses import ds_course,web_course,android_course,ios_course,uiux_course
-# import nltk
+import nltk
 # import spacy
 
 # nlp = spacy.load('en_core_web_sm')
-# nltk.download('stopwords')
+nltk.download('stopwords')
 
 
 st.set_page_config(
