@@ -1,5 +1,6 @@
-mkdir -p ~/.streamlit/
 python -m nltk.downloader stopwords
+mkdir -p ~/.streamlit/
+
 
 
 echo "\
