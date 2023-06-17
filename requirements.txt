@@ -1,6 +1,5 @@
 pandas
 pyresparser
-os
 pdfminer3
 io
 streamlit_tags
