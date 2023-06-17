@@ -1,4 +1,6 @@
 mkdir -p ~/.streamlit/
+python -m nltk.downloader stopwords
+
 
 echo "\
 [general]\n\
