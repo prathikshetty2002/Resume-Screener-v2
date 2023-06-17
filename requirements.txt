@@ -1,6 +1,4 @@
 pandas
-random
-datetime
 pyresparser
 os
 pdfminer3
