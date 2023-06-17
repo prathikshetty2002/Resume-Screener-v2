@@ -17,7 +17,7 @@ from Recommendations import web_skills,ds_skills,ios_skills,android_skills,uiux_
 from Courses import ds_course,web_course,android_course,ios_course,uiux_course
 import nltk
 from nltk.corpus import stopwords
-nltk.download('stopwords')
+nltk.download()
 
 
 
